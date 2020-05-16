@@ -1,0 +1,14 @@
+{
+  "development": {
+    "database": "example_development",
+    "driver": "pg",
+    "user": "scott",
+    "host": "localhost"
+  },
+  "production": {
+    "database": "example_production",
+    "driver": "pg",
+    "user": {"ENV": "PRODUCTION_USERNAME"},
+    "password": {"ENV": "PRODUCTION_PASSWORD"}
+  }
+}

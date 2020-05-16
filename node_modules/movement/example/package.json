@@ -1,0 +1,38 @@
+{
+  "name": "movement-example",
+  "version": "0.0.0",
+  "description": "attempt at making a framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "framework"
+  ],
+  "author": "Scott Ballantyne",
+  "license": "MIT",
+  "devDependencies": {
+    "should": "*",
+    "mocha": "*",
+    "expect.js": "*",
+    "chai": "*"
+  },
+  "dependencies": {
+    "movement": "*",
+    "socket.io": "*",
+    "express": "*",
+    "mongoose": "*",
+    "pg": "*",
+    "redis": "*",
+    "migrate": "*",
+      "replcator": "*",
+      "winston": "*",
+      "express-winston": "*",
+      "tail": "*",
+      "colors": "*",
+      "underscore": "*",
+      "ejs": "*",
+    "any-db": "*",
+    "any-db-postgres": "*"
+  }
+}

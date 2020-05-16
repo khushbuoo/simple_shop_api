@@ -1,0 +1,4 @@
+node_modules
+example/logs/development.log
+example/npm-debug.log
+*npm-debug.log

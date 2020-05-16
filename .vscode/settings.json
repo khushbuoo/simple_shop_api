@@ -1,0 +1,38 @@
+{
+    "cSpell.ignoreWords": [
+        "add",
+        "addproduct",
+        "addproductvalidation",
+        "adminlogin",
+        "adminloginvalidation",
+        "cancle",
+        "cancleorder",
+        "getkyc",
+        "getone",
+        "getorder",
+        "getsingle",
+        "order",
+        "orderdetails",
+        "postorder",
+        "productorder",
+        "profile",
+        "shipindaddress",
+        "showproduct",
+        "user"
+    ],
+    "cSpell.words": [
+        "Kyclist",
+        "Userlist",
+        "Usermodel",
+        "add",
+        "dbservice",
+        "fetchupload",
+        "productupdate",
+        "saveproduct",
+        "shipining",
+        "updatedata",
+        "upsert",
+        "viewproduct",
+        "viewsingle"
+    ]
+}

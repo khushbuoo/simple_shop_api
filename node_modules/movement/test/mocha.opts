@@ -1,0 +1,7 @@
+--require should
+--reporter list
+--ui bdd
+--globals okGlobalA,okGlobalB
+--globals okGlobalC
+--globals callback*
+--timeout 200

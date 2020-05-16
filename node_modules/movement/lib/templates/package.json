@@ -1,0 +1,31 @@
+{
+    "name": "app name",
+    "version": "0.0.0",
+    "description": "movement app",
+    "main": "app.js",
+    "scripts": {
+      "test": "mocha"
+    },
+    "license": "MIT",
+    "devDependencies": {
+      "should": "*",
+      "mocha": "*",
+      "expect.js": "*",
+      "chai": "*"
+    },
+    "dependencies": {
+     "movement": "0.0.10",
+      "socket.io": "*",
+      "express": "*",
+      "mongoose": "*",
+      "pg": "*",
+      "redis": "*",
+      "migrate": "*",
+      "replcator": "*",
+      "winston": "*",
+      "express-winston": "*",
+      "tail": "*",
+      "colors": "*",
+      "underscore": "*"
+    }
+  }

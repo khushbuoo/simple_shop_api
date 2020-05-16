@@ -1,0 +1,7 @@
+Exception: STATUS_ACCESS_VIOLATION at eip=004161D0
+eax=00000001 ebx=FFFFFFFA ecx=800892E8 edx=800E43B8 esi=00000057 edi=00000032
+ebp=00000000 esp=006CC344 program=H:\Git\usr\bin\mintty.exe, pid 1754, thread main
+cs=0023 ds=002B es=002B fs=0053 gs=002B ss=002B
+Stack trace:
+Frame     Function  Args
+End of stack trace

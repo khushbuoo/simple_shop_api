@@ -1,0 +1,14 @@
+#!/usr/bin/env node
+var argv = require('optimist').argv;
+var repl = require("repl");
+var colors = require('colors');
+var arguments = argv['_'];
+var command = arguments.shift()
+var Actions = require('movement').cli;
+
+if (Actions[command] == undefined) {
+  console.log('that action is undefined')
+} else {
+  Actions[command](arguments)
+  return true;
+}
